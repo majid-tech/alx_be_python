@@ -13,5 +13,5 @@ class BankAccount:
             return f'account balance is less than amount'
 
     def display_balance(self):
-        print(f'Account balance: {self.account_balance}')
+        print(f'Current Balance: {self.account_balance}')
 
